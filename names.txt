@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss, 9083402942, Azhimuratov, Nursultan_boss
 employee, 9083402942, Azhimuratov, Nursultan_employee
